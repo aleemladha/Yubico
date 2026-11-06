@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+.env.*
+*.pfx
+*.p12
+*.key
+BitLocker-Recovery/
